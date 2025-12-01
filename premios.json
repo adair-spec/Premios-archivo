@@ -611,7 +611,138 @@
 {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actriz de Cuadro","Nombre":"Rosa María Moreno","Pelicula":"La culta dama","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Infantil","Nombre":"Abraham Gelbser","Pelicula":"La Ciudad de los Niños","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Infantil","Nombre":"José Romay","Pelicula":"Pepito, as del volante","Nominado":"Sí","Ganado":""},
-{"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Infantil","Nombre":"Paquito Fernández","Pelicula":"El bolero de Raquel","Nominado":"Sí","Ganado":""}
+{"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Infantil","Nombre":"Paquito Fernández","Pelicula":"El bolero de Raquel","Nominado":"Sí","Ganado":""},
+
+ {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Juvenil","Nombre":"Alejandro Parodi","Pelicula":"El buen ladrón","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Juvenil","Nombre":"Freddy Fernández \"El Pichi\"","Pelicula":"La Ciudad de los Niños","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Actuación Juvenil","Nombre":"Jaime Jiménez Pons","Pelicula":"La Ciudad de los Niños","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Argumento original","Nombre":"Alejandro Galindo","Pelicula":"Esposa te doy","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Argumento original","Nombre":"Julio Alejandro de Castro","Pelicula":"La Ciudad de los Niños","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Argumento original","Nombre":"Mauricio de la Serna","Pelicula":"El buen ladrón","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Femenina","Nombre":"Gloria Lozano","Pelicula":"La culta dama","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Femenina","Nombre":"Lucy Gallardo","Pelicula":"Bambalinas","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Femenina","Nombre":"Maricruz Olivier","Pelicula":"Esposa te doy","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Masculina","Nombre":"Carlos Riquelme","Pelicula":"La dulce enemiga","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Masculina","Nombre":"Federico Curiel","Pelicula":"El buen ladrón","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Coactuación Masculina","Nombre":"Raúl Ramírez","Pelicula":"Dios no lo quiera","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Dirección","Nombre":"Rogelio A. González","Pelicula":"La culta dama","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Dirección","Nombre":"Tito Davison","Pelicula":"La dulce enemiga","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Dirección","Nombre":"Tulio Demicheli","Pelicula":"Feliz año, amor mío","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Edición","Nombre":"Carlos Savage","Pelicula":"Un mundo nuevo","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Edición","Nombre":"Gloria Schoemann","Pelicula":"Yambao","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Edición","Nombre":"Rafael Ceballos","Pelicula":"Feliz año, amor mío","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Escenografía","Nombre":"Javier Torres Torija","Pelicula":"Los tres mosqueteros...y medio","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Escenografía","Nombre":"Jorge Fernández","Pelicula":"Feliz año, amor mío","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Escenografía","Nombre":"Manuel Fontanals","Pelicula":"La culta dama","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Fotografía","Nombre":"Alex Phillips","Pelicula":"Tizoc","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Fotografía","Nombre":"Raúl Martínez Solares","Pelicula":"Yambao","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Fotografía","Nombre":"Rosalío Solano","Pelicula":"Un mundo nuevo","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Guión Adaptado","Nombre":"Alejandro Galindo","Pelicula":"Esposa te doy","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Guión Adaptado","Nombre":"Julio Alejandro de Castro","Pelicula":"Feliz año, amor mío","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Guión Adaptado","Nombre":"Tulio Demicheli","Pelicula":"La dulce enemiga","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Música de fondo","Nombre":"Gonzalo Curiel","Pelicula":"Vainilla, bronce y morir","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Música de fondo","Nombre":"Raúl Lavista","Pelicula":"Tizoc","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Música de fondo","Nombre":"Rodolfo Halffter","Pelicula":"Un mundo nuevo","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Película","Nombre":"Cinematográfica Filmex","Pelicula":"Feliz año, amor mío","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Película","Nombre":"Producciones Matouk","Pelicula":"Tizoc","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Película","Nombre":"Rogelio A. González","Pelicula":"La culta dama","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Premio Especial","Nombre":"Carlos Velo","Pelicula":"","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Sonido","Nombre":"Francisco Alcayde","Pelicula":"Bambalinas","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Sonido","Nombre":"Luis Fernández","Pelicula":"¡Aquí están los Aguilares!","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIII","Anio":1958,"Categorias":"Sonido","Nombre":"Rodolfo Benítez","Pelicula":"Feliz año, amor mío","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actor","Nombre":"Alfonso Arau","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actor","Nombre":"Jorge Luke","Pelicula":"Las puertas del paraíso","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actor","Nombre":"Sergio Jiménez","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actriz","Nombre":"Isela Vega","Pelicula":"Las reglas del juego","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actriz","Nombre":"Julissa","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Actriz","Nombre":"Rita Macedo","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Alfonso Arau","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Emilio Carballido","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Gonzalo Martínez Ortega","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Héctor Ortega","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Jorge Fons","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Juan Manuel Torres","Pelicula":"Fin de fiesta","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Juan Manuel Torres","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Argumento original","Nombre":"Pancho Córdova","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Femenina","Nombre":"Ana Martin","Pelicula":"Fin de fiesta","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Femenina","Nombre":"Helena Rojo","Pelicula":"Fin de fiesta","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Femenina","Nombre":"Rocío Brambila","Pelicula":"Muñeca reina","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Masculina","Nombre":"David Silva","Pelicula":"El Topo","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Masculina","Nombre":"Eric Del Castillo","Pelicula":"Los marcados","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Coactuación Masculina","Nombre":"Pancho Córdova","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Cortometraje Documental","Nombre":"Eduardo Maldonado","Pelicula":"Testimonio de un grupo","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Cortometraje Documental","Nombre":"Eugenia Rendón","Pelicula":"Palenque","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Cortometraje Documental","Nombre":"Víctor Anteo","Pelicula":"La escalera","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Dirección","Nombre":"Alfonso Arau","Pelicula":"El Águila descalza","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Dirección","Nombre":"Jorge Fons","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Dirección","Nombre":"Salomón Láiter","Pelicula":"Las puertas del paraíso","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Edición","Nombre":"Alberto Valenzuela","Pelicula":"Muñeca reina","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Edición","Nombre":"Federico Landeros","Pelicula":"El Topo","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Edición","Nombre":"José J. Munguía","Pelicula":"Sin salida","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Escenografía","Nombre":"Heriberto Henters","Pelicula":"Las puertas del paraíso","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Escenografía","Nombre":"José Durán","Pelicula":"El Topo","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Escenografía","Nombre":"José Luis Garduño","Pelicula":"El Topo","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Escenografía","Nombre":"Salvador Lozano Mena","Pelicula":"El Águila descalza","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Fotografía","Nombre":"Jorge Stahl Jr.","Pelicula":"El jardín de tía Isabel","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Fotografía","Nombre":"Rafael Corkidi","Pelicula":"El Topo","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Fotografía","Nombre":"Rosalío Solano","Pelicula":"Los marcados","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Alfonso Arau","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Eduardo Lizalde","Pelicula":"Las puertas del paraíso","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Emilio Carballido","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Gonzalo Martínez Ortega","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Héctor Ortega","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Jorge Fons","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Juan Manuel Torres","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Pancho Córdova","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Guión Cinematográfico","Nombre":"Salomón Láiter","Pelicula":"Las puertas del paraíso","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Música de fondo","Nombre":"Joaquín Gutiérrez Heras","Pelicula":"Cayó de la gloria el diablo","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Música de fondo","Nombre":"Nacho Méndez","Pelicula":"El Topo","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Música de fondo","Nombre":"Rubén Fuentes","Pelicula":"Las puertas del paraíso","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Película","Nombre":"Cinematográfica Marco Polo","Pelicula":"Nosotros, episodio de Tú, yo, nosotros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Película","Nombre":"Cinematográfica Marte","Pelicula":"Las puertas del paraíso","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Película","Nombre":"Producciones Jaguar","Pelicula":"El Águila descalza","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Premio Especial","Nombre":"Alexis Grivas","Pelicula":"Quien resulte responsable","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Premio Especial","Nombre":"Gustavo Alatriste","Pelicula":"Quien resulte responsable","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Premio Especial","Nombre":"Rafael Castañedo","Pelicula":"Quien resulte responsable","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XIV","Anio":1972,"Categorias":"Premio Especial","Nombre":"Toni Kuhn","Pelicula":"Quien resulte responsable","Nominado":"","Ganado":"Sí"},
+
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actor","Nombre":"Alfonso Arau","Pelicula":"El rincón de las vírgenes","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actor","Nombre":"Ignacio López Tarso","Pelicula":"Rosa Blanca","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actor","Nombre":"Jorge Martínez de Hoyos","Pelicula":"Los días del amor","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actriz","Nombre":"Helena Rojo","Pelicula":"Los cachorros","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actriz","Nombre":"Lucha Villa","Pelicula":"Mecánica nacional","Nominado":"","Ganado":"Sí"},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Actriz","Nombre":"Maritza Olivares","Pelicula":"Los meses y los días","Nominado":"Sí","Ganado":""},
+
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Argumento original","Nombre":"Alberto Isaac","Pelicula":"Los días del amor","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Argumento original","Nombre":"Arturo Ripstein","Pelicula":"El castillo de la pureza","Nominado":"Sí","Ganado":""},
+  {"Ceremonia":"XV","Anio":1973,"Categorias":"Argumento original","Nombre":"José Emilio Pacheco","Pelicula":"El castillo de la pureza","Nominado":"Sí","Ganado":""}
 
 
 ]
