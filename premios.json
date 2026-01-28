@@ -1140,7 +1140,75 @@
 {"Ceremonia":"XXIII","Anio":1981,"Categorias":"Actriz","Nombre":"Tina Romero","Pelicula":"Las grandes aguas","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"XXIII","Anio":1981,"Categorias":"Ambientación","Nombre":"Carlos Grandjean","Pelicula":"Morir de madrugada","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"XXIII","Anio":1981,"Categorias":"Ambientación","Nombre":"Fernando Vallejo","Pelicula":"En la tormenta","Nominado":"","Ganado":"Sí"},
-{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Ambientación","Nombre":"Rafaél Suárez","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"}
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Ambientación","Nombre":"Rafaél Suárez","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+
+
+
+
+
+ {"Ceremonia":"XXIII","Anio":1981,"Categorias":"Argumento original","Nombre":"Fernando Galiana","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Argumento original","Nombre":"René Cardona Jr.","Pelicula":"Traficantes de pánico","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Argumento original","Nombre":"Sergio Moncada","Pelicula":"Traficantes de pánico","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Argumento original","Nombre":"Vicente Leñero","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación femenina","Nombre":"Beatriz Sheridan","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación femenina","Nombre":"Leonor Llausás","Pelicula":"Qué viva Tepito","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación femenina","Nombre":"Rebeca Silva","Pelicula":"Qué viva Tepito","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación masculina","Nombre":"Jorge Luke","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación masculina","Nombre":"Manuel Ojeda","Pelicula":"Qué viva Tepito","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Coactuación masculina","Nombre":"Víctor Junco","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Francisco Chávez","Pelicula":"La migala","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Jaime Carrasco","Pelicula":"La migala","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Jesús Sánchez","Pelicula":"La migala","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Lillian Lieberman","Pelicula":"Espontánea belleza","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Luis Lupone","Pelicula":"La migala","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje ficción","Nombre":"Maryse Sistach","Pelicula":"Y si platicamos en agosto","Nominado":"Sí","Ganado":""},
+ {"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje documental","Nombre":"Carlos Cruz Barrera","Pelicula":"Chapopote","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje documental","Nombre":"Carlos Mendoza Aupetit","Pelicula":"Chapopote","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje documental","Nombre":"Jorge Fons","Pelicula":"Así es Vietnam","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje documental","Nombre":"Nicolás Echevarría","Pelicula":"Poetas campesinos","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Demetrio Bilbatúa","Pelicula":"El valle sagrado de Urubamba","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Demetrio Bilbatúa","Pelicula":"Sinfonía de México","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Fernando Martínez Álvarez","Pelicula":"El valle sagrado de Urubamba","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Fernando Martínez Álvarez","Pelicula":"Sinfonía de México","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Jaime Kuri Aíza","Pelicula":"Estofados de la Nueva España","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Marco Julio Linares","Pelicula":"Estofados de la Nueva España","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Dirección","Nombre":"Julián Pastor","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Dirección","Nombre":"Marcela Fernández Violante","Pelicula":"Misterio","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Dirección","Nombre":"Servando González","Pelicula":"Las grandes aguas","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Edición","Nombre":"Alfredo Rosas Priego","Pelicula":"Traficantes de pánico","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Edición","Nombre":"Gloria Schoemann","Pelicula":"Las grandes aguas","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Edición","Nombre":"Jorge Bustos","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Escenografía","Nombre":"Alberto Ladrón de Guevara","Pelicula":"Las mujeres de Jeremías","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Escenografía","Nombre":"Xavier Rodríguez","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Escenografía","Nombre":"Xavier Rodríguez","Pelicula":"Las grandes aguas","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Fotografía","Nombre":"Daniel López","Pelicula":"Las grandes aguas","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Fotografía","Nombre":"Daniel López","Pelicula":"Misterio","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Fotografía","Nombre":"Xavier Cruz Ruvalcaba","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Guion cinematográfico","Nombre":"Fernando Galiana","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Guion cinematográfico","Nombre":"Vicente Leñero","Pelicula":"Las grandes aguas","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Guion cinematográfico","Nombre":"Vicente Leñero","Pelicula":"Misterio","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Música de fondo","Nombre":"Gustavo César Carrión","Pelicula":"Las grandes aguas","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Música de fondo","Nombre":"Leonardo Velázquez","Pelicula":"Morir de madrugada","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Música de fondo","Nombre":"Leonardo Velázquez","Pelicula":"Misterio","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Película","Nombre":"Consejo Nacional de Cinematografía (CONACINE)","Pelicula":"Las grandes aguas","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Película","Nombre":"Televicine, S.A. de C.V.","Pelicula":"Morir de madrugada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Película","Nombre":"CONACINE","Pelicula":"Misterio","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Premio especial","Nombre":"Alfredo Joskowicz","Pelicula":"Constelaciones","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Premio especial","Nombre":"Douglas Sánchez","Pelicula":"Cualquier cosa","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXIII","Anio":1981,"Categorias":"Ópera prima","Nombre":"Francisco Chávez","Pelicula":"La migala","Nominado":"","Ganado":"Sí"}
  
  
 
