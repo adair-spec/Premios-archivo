@@ -1312,7 +1312,112 @@
 {"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación femenina","Nombre":"Patricia Rivera","Pelicula":"Tiempo de lobos","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación femenina","Nombre":"Carmen González","Pelicula":"La pachanga","Nominado":"Sí","Ganado":""},
 
-{"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación masculina","Nombre":"Alejandro Ciangherotti Jr.","Pelicula":"La pachanga","Nominado":"Sí","Ganado":""}
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación masculina","Nombre":"Alejandro Ciangherotti Jr.","Pelicula":"La pachanga","Nominado":"Sí","Ganado":""},
+
+
+
+
+
+ {"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación masculina","Nombre":"Rafael Inclán","Pelicula":"Piernas cruzadas","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Coactuación masculina","Nombre":"Alfredo Sevilla","Pelicula":"La víspera","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje ficción","Nombre":"José Luis García Agraz","Pelicula":"Patricio","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje ficción","Nombre":"José Nieto","Pelicula":"Los tres deseos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje ficción","Nombre":"Olga Cáceres","Pelicula":"Lejos de las fiestas","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje documental","Nombre":"Alberto Cortés","Pelicula":"La tierra de los tepehuas","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje documental","Nombre":"Jaime Kuri Aíza","Pelicula":"Tlacotalpan","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje documental","Nombre":"Juan Francisco Urrusti","Pelicula":"Maraacame (cantador y curandero)","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Humberto Ríos","Pelicula":"El tango es una historia","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Jaime Kuri Aíza","Pelicula":"Marginación","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"José Manuel Osorio","Pelicula":"Diego Rivera, mito o realidad","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Dirección","Nombre":"Alberto Isaac","Pelicula":"Tiempo de lobos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Dirección","Nombre":"Alfredo Gurrola","Pelicula":"Días de combate","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Dirección","Nombre":"José Estrada","Pelicula":"La pachanga","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Edición","Nombre":"Federico Landeros","Pelicula":"Tiempo de lobos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Edición","Nombre":"Rafael Ceballos","Pelicula":"La pachanga","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Edición","Nombre":"Rafael Ceballos","Pelicula":"Ángel del barrio","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Fotografía","Nombre":"Antonio Ruiz","Pelicula":"Días de combate","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Fotografía","Nombre":"Rosalío Solano","Pelicula":"La pachanga","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Fotografía","Nombre":"Toni Kuhn","Pelicula":"Uno entre muchos","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Guion cinematográfico","Nombre":"Alberto Cortés","Pelicula":"Uno entre muchos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Guion cinematográfico","Nombre":"Alberto Isaac","Pelicula":"Tiempo de lobos","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Guion cinematográfico","Nombre":"Ariel Zúñiga","Pelicula":"Uno entre muchos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Guion cinematográfico","Nombre":"Paco Ignacio Taibo II","Pelicula":"Días de combate","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Música de fondo","Nombre":"Leonardo Velázquez","Pelicula":"En el país de los pies ligeros","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Música de fondo","Nombre":"Rafael Elizondo","Pelicula":"El caballito volador","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Música de fondo","Nombre":"Rubén Fuentes","Pelicula":"Una leyenda de amor","Nominado":"Sí","Ganado":""},
+
+
+
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Ópera prima","Nombre":"Alejandro Pelayo","Pelicula":"La víspera","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Ópera prima","Nombre":"Gustavo Montiel","Pelicula":"Entre paréntesis","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Ópera prima","Nombre":"Jorge Arturo Prior Tapia","Pelicula":"Café Tacuba","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Premio especial","Nombre":"Celia Ruiz","Pelicula":"","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Premio especial","Nombre":"Eduardo Maldonado","Pelicula":"Laguna de dos tiempos","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Premio especial","Nombre":"Emilio Watanabe","Pelicula":"Crónicas del caribe","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXV","Anio":1983,"Categorias":"Premio especial","Nombre":"Francisco López","Pelicula":"Crónicas del caribe","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actor","Nombre":"Humberto Zurita","Pelicula":"Bajo la metralla","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actor","Nombre":"Mario Almada","Pelicula":"La viuda negra","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actor","Nombre":"Miguel Ángel Ferriz","Pelicula":"El tonto que hacía milagros","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actriz","Nombre":"Blanca Guerra","Pelicula":"Motel","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actriz","Nombre":"Delia Casanova","Pelicula":"El día que murió Pedro Infante","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Actriz","Nombre":"Isela Vega","Pelicula":"La viuda negra","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Ambientación","Nombre":"Carlos Grandjean","Pelicula":"La viuda negra","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Ambientación","Nombre":"Lucero Isaac","Pelicula":"Las apariencias engañan","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Ambientación","Nombre":"Olga Salas","Pelicula":"Motel","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Argumento original","Nombre":"Francisco Sánchez","Pelicula":"El tonto que hacía milagros","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Argumento original","Nombre":"Gonzalo Martínez Ortega","Pelicula":"El hombre de la mandolina","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Argumento original","Nombre":"José de la Colina","Pelicula":"El corazón de la noche","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Argumento original","Nombre":"Luis Mariano Sabines","Pelicula":"El tonto que hacía milagros","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Argumento original","Nombre":"Rubén Torres","Pelicula":"El hombre de la mandolina","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Coactuación femenina","Nombre":"Beatriz Marín","Pelicula":"Bajo la metralla","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Coactuación femenina","Nombre":"Margarita Isabel","Pelicula":"Las apariencias engañan","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Coactuación masculina","Nombre":"Alejandro Parodi","Pelicula":"Nocaut","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Coactuación masculina","Nombre":"Gastón Padilla","Pelicula":"El tonto que hacía milagros","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Coactuación masculina","Nombre":"Salvador Sánchez","Pelicula":"Motel","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje ficción","Nombre":"Claudia Maglia","Pelicula":"Coyoacán","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje ficción","Nombre":"Maryse Sistach","Pelicula":"Conozco a los tres","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje ficción","Nombre":"Víctor Saca","Pelicula":"Laudate Pueri","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje documental","Nombre":"Óscar Menéndez","Pelicula":"Hablan los tarahumaras","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje documental","Nombre":"Salvador Díaz","Pelicula":"Los encontraremos","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Adolfo García Videla","Pelicula":"Del viento y del fuego","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Humberto Ríos","Pelicula":"Del viento y del fuego","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Juan Roberto Mora Catlett","Pelicula":"Manuel Álvarez Bravo, fotógrafo","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Cortometraje educativo, científico o de divulgación artística","Nombre":"Juan Roberto Mora Catlett","Pelicula":"Recuerdos de Juan O Gorman","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Dirección","Nombre":"Ariel Zúñiga","Pelicula":"El diablo y la dama","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Dirección","Nombre":"Arturo Ripstein","Pelicula":"La viuda negra","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Dirección","Nombre":"Felipe Cazals","Pelicula":"Bajo la metralla","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Edición","Nombre":"Carlos García Agraz","Pelicula":"Nocaut","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Edición","Nombre":"Rafael Ceballos","Pelicula":"La viuda negra","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Edición","Nombre":"Rafael Ceballos","Pelicula":"Bajo la metralla","Nominado":"","Ganado":"Sí"},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Escenografía","Nombre":"Javier Torres Torija","Pelicula":"Bajo la metralla","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Escenografía","Nombre":"Lali Roffiel","Pelicula":"Eréndira","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Escenografía","Nombre":"Pierre Cadiou","Pelicula":"Eréndira","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Escenografía","Nombre":"Rainer Schrader","Pelicula":"Eréndira","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Escenografía","Nombre":"Teodoro Maus","Pelicula":"Deseos","Nominado":"Sí","Ganado":""},
+
+{"Ceremonia":"XXVI","Anio":1984,"Categorias":"Fotografía","Nombre":"Ángel Goded","Pelicula":"Nocaut","Nominado":"Sí","Ganado":""}
 
 
 
