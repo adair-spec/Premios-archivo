@@ -4391,10 +4391,69 @@
 {"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Diego Osorno","Pelicula":"El alcalde","Nominado":"Sí","Ganado":""},
 {"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Emiliano Altuna","Pelicula":"El alcalde","Nominado":"Sí","Ganado":""},
 {"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Emilio Maillé","Pelicula":"Miradas múltiples, La máquina loca","Nominado":"Sí","Ganado":""},
-{"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Jorge Denti","Pelicula":"La huella del Dr. Ernesto Guevara","Nominado":"Sí","Ganado":""}
+{"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Jorge Denti","Pelicula":"La huella del Dr. Ernesto Guevara","Nominado":"Sí","Ganado":""},
 
 
- 
+
+
+
+
+
+
+
+{"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Pablo Tamez","Pelicula":"Lejanía","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Largometraje documental","Nombre":"Roberto Fiesco","Pelicula":"Quebranto","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Maquillaje","Nombre":"Adam Zoller","Pelicula":"Halley","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Maquillaje","Nombre":"Iñaqui Legaspi","Pelicula":"La jaula de oro","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Maquillaje","Nombre":"Iñaqui Legaspi","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Maquillaje","Nombre":"Jorge Fuentes","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Maquillaje","Nombre":"Roberto Ortíz","Pelicula":"Ciudadano Buelna","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Música original","Nombre":"Daniel Hidalgo","Pelicula":"El alcalde","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Música original","Nombre":"Gustavo Mauricio Hernández Dávila","Pelicula":"Halley","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Música original","Nombre":"Jacobo Lieberman","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Música original","Nombre":"Jesús Echevarría","Pelicula":"Huérfanos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Música original","Nombre":"Leonardo Heiblum","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Ópera prima","Nombre":"Claudia Sainte-Luce","Pelicula":"Los insólitos peces gato","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Ópera prima","Nombre":"Diego Quemada-Diez","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Ópera prima","Nombre":"Natalia Beristain","Pelicula":"No quiero dormir sola","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Ópera prima","Nombre":"Roberto Fiesco","Pelicula":"Quebranto","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Ópera prima","Nombre":"Sebastián Hofmann","Pelicula":"Halley","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película","Nombre":"Caníbal Networks","Pelicula":"Los insólitos peces gato","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película","Nombre":"Cazador Solitario Films","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película","Nombre":"Chamaca Films","Pelicula":"No quiero dormir sola","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película","Nombre":"Cine Pantera","Pelicula":"Club sándwich","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película","Nombre":"Mantarraya Producciones","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película iberoamericana","Nombre":"Alfredo Soderguit","Pelicula":"Anina (Uruguay)","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película iberoamericana","Nombre":"Carlos Lechuga","Pelicula":"Melaza (Cuba)","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película iberoamericana","Nombre":"Gracia Querejeta","Pelicula":"15 años y un día (España)","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película iberoamericana","Nombre":"Lucía Puenzo","Pelicula":"Wakolda (Argentina)","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Película iberoamericana","Nombre":"Sebastián Lelio","Pelicula":"Gloria (Chile - España)","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Catriel Vildosola","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Gabriel Coll","Pelicula":"Ciudadano Buelna","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Jaime Baksht","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Jaime Baksht","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Matías Barberis","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Matías Barberis","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Michelle Couttolenc","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Michelle Couttolenc","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Miguel Ángel Molina","Pelicula":"Ciudadano Buelna","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Pablo Tamez","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Raúl Locatelli","Pelicula":"La jaula de oro","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Raúl Locatelli","Pelicula":"Halley","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Samuel Larson","Pelicula":"Ciudadano Buelna","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Sergio Díaz","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Uriel Esquenazi","Pelicula":"Halley","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Sonido","Nombre":"Vincent Arnardi","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Adela Cortázar","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Alejandra Dorantes","Pelicula":"Huérfanos","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Daniela Schneider","Pelicula":"Heli","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Jerildy Bosch","Pelicula":"Tercera llamada","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Mayra Gabriela Juárez Vanegas","Pelicula":"Ciudadano Buelna","Nominado":"","Ganado":"Sí"},
+{"Ceremonia":"56","Anio":2014,"Categorias":"Vestuario","Nombre":"Nohemí González","Pelicula":"La jaula de oro","Nominado":"Sí","Ganado":""},
+{"Ceremonia":"57","Anio":2015,"Categorias":"Actor","Nombre":"Harold Torres","Pelicula":"González","Nominado":"Sí","Ganado":""}
+
+
+
 
  
 ]
