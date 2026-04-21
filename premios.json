@@ -289,6 +289,15 @@
 {"Ceremonia":"V","Anio":1950,"Categorias":"Sonido","Nombre":"Manuel Topete","Pelicula":"El dolor de los hijos","Nominado":"Sí","Ganado":""},
 {"Ceremonia":"V","Anio":1950,"Categorias":"Sonido","Nombre":"Rodolfo Benítez","Pelicula":"Medianoche","Nominado":"Sí","Ganado":""},
 
+
+ {"Ceremonia": "VI", "Anio": 1951, "Categorias": "Película", "Nombre": "Cinematográfica Filmex", "Pelicula": "Doña Diabla", "Nominado": "Sí", "Ganado": ""},
+  {"Ceremonia": "VI", "Anio": 1951, "Categorias": "Película", "Nombre": "Ultramar Films", "Pelicula": "Los olvidados", "Nominado": "", "Ganado": "Sí"},
+  {"Ceremonia": "VI", "Anio": 1951, "Categorias": "Película", "Nombre": "Ultramar Films", "Pelicula": "Otra primavera", "Nominado": "Sí", "Ganado": ""},
+
+
+
+ 
+
 {"Ceremonia":"VI","Anio":1951,"Categorias":"Actor","Nombre":"Arturo de Córdova","Pelicula":"El hombre sin rostro","Nominado":"Sí","Ganado":""},
 {"Ceremonia":"VI","Anio":1951,"Categorias":"Actor","Nombre":"Fernando Soler","Pelicula":"No desearás a la mujer de tu hijo","Nominado":"","Ganado":"Sí"},
 {"Ceremonia":"VI","Anio":1951,"Categorias":"Actor","Nombre":"Pedro Armendáriz","Pelicula":"Rosauro Castro","Nominado":"Sí","Ganado":""},
